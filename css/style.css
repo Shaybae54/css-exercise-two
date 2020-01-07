@@ -58,7 +58,7 @@ article {
 
 
 h1 {
-font-size: 32px
+font-size: 2em
 }
 
 h1 {
@@ -67,11 +67,11 @@ h1 {
 }
 
 figcaption {
-  font-size: 8px
+  font-size: 0.5em
 }
 
 h3 {
-  font-size: 14px
+  font-size: .875em
 }
 
 h3 {
@@ -79,7 +79,7 @@ h3 {
 }
 
 .author {
-  font-size: 12px
+  font-size: .75em
 }
 
 p {
@@ -91,5 +91,4 @@ a {
   text-decoration: none;
 }
 
-a:visited {color:#0070bb}
 a:hover {color:#0070bc}
